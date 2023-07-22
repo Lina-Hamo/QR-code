@@ -33,4 +33,4 @@
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="">solution</a>. It definitely helps to find new ways to code and find easier solutions! 
+A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/qr-code-component-ID3OHjRMDE">solution</a>. It definitely helps to find new ways to code and find easier solutions! 
