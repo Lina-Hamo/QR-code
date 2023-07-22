@@ -1,6 +1,5 @@
 <img src="https://github.com/Lina-Hamo/QR-code/blob/master/design/desktop-preview.jpg"></img>
 
-
 <h1 align="center">QR code component</h1>
 
 <div align="center">
